@@ -1,5 +1,3 @@
-//KeLee的脚本一直不能本地更新，就存一个在这里用
-
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
